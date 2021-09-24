@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient( orange,yellow);
+}
+
+.contaner{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Ephesis', cursive;
+    font-size: 100px;
+}
